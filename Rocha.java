@@ -8,7 +8,7 @@ public class Rocha {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		float peso = 0, pesoTotal = 0;
+		float peso, pesoTotal = 0;
 		int contGuardado = 0;
 
 		System.out.println("___________________°-°_________________");
